@@ -18,6 +18,20 @@ Documentation on how to self host your own Wire-Server is not yet available but 
 
 See more in "[Open sourcing Wire server code](https://medium.com/@wireapp/open-sourcing-wire-server-code-ef7866a731d5)".
 
+## Table of contents
+
+-   [Content of the repository](#content-of-the-repository)
+-   [Architecture Overview](#architecture-overview)
+-   [Development setup](#development-setup)
+    -   [How to build `wire-server`
+        binaries](#how-to-build-wire-server-binaries)
+-   [How to run integration tests](#how-to-run-integration-tests)
+-   [How to run `wire-server` with "fake" external
+    dependencies](#how-to-run-wire-server-with-fake-external-dependencies)
+-   [How to run `wire-server` with real AWS
+    services](#how-to-run-wire-server-with-real-aws-services)
+-   [Roadmap](#roadmap)
+
 ## Content of the repository
 
 This repository contains the following source code:
